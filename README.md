@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+!["Yandex.Metrika counter"](https://mc.yandex.ru/watch/78018301)
+
 <!--
 **pbelskiy/pbelskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
