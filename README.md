@@ -1,25 +1,10 @@
-Hi, I am 29 y.o., curious about whole computer science, especially backend, services, and system programming.
-I have more than 7 years of Python experience, love Django, have a background with С, reverse engineering. 
+Hi, I am 29 y.o., curious about whole computer science, especially backend, services, and system programming.<br/>
+I have more than 7 years of Python experience, love Django, have a background with С, reverse engineering. <br/>
  
-Addicted to GitHub, LeetCode & continuous improvement✌️
+Addicted to GitHub, LeetCode & continuous improvement✌️<br/>
 
-https://github.com/pbelskiy
-https://leetcode.com/pbelskiy
+https://github.com/pbelskiy<br/>
+https://leetcode.com/pbelskiy<br/>
 
-EN: https://linkedin.com/in/pbelskiy
-RU: https://career.habr.com/pbelskiy
-
-<!--
-**pbelskiy/pbelskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+EN: https://linkedin.com/in/pbelskiy<br/>
+RU: https://career.habr.com/pbelskiy<br/>
