@@ -7,4 +7,4 @@ https://github.com/pbelskiy<br/>
 https://leetcode.com/pbelskiy<br/>
 
 EN: https://linkedin.com/in/pbelskiy<br/>
-RU: https://career.habr.com/pbelskiy<br/>
+RU: https://career.habr.com/petr-belskiy<br/>
