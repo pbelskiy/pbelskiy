@@ -1,6 +1,13 @@
-### Hi there 👋
+Hi, I am 29 y.o., curious about whole computer science, especially backend, services, and system programming.
+I have more than 7 years of Python experience, love Django, have a background with С, reverse engineering. 
+ 
+Addicted to GitHub, LeetCode & continuous improvement✌️
 
-!["Yandex.Metrika counter"](https://mc.yandex.ru/watch/78018301)
+https://github.com/pbelskiy
+https://leetcode.com/pbelskiy
+
+EN: https://linkedin.com/in/pbelskiy
+RU: https://career.habr.com/pbelskiy
 
 <!--
 **pbelskiy/pbelskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
