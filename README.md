@@ -1,8 +1,8 @@
-Hi, I am Petr Belskiy, software engineer, 30 y.o., curious about whole wide computer science, especially backend,<br/> 
-services, and system programming.<br/>
+Hi, I am Petr Belskiy, software engineer, 30 y.o., curious about whole computer science, especially backend, services,<br/> 
+and system programming.<br/>
 
-More than 8 years of commercial work, last time working mostly as full stack, the main language is Python, love Django,<br/> 
-have a background with С, reverse engineering.<br/>
+Interesting in IT starting from childhood, more than 8 years of commercial work, last time working mostly as full stack,<br/> 
+the main language is Python, love Django, have a background with С, reverse engineering.<br/>
 
 Addicted to GitHub, LeetCode & continuous improvement ✌️<br/>
 
