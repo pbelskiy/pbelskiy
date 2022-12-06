@@ -1,8 +1,8 @@
 Hi, I am software engineer, 30 y.o., curious about whole computer science, especially backend, services,<br/>
 and system programming.<br/>
 
-More than 9 years of commercial work, last time working mostly as full stack, the main language is Python,<br/>
-love Django, have a background with С, reverse engineering.<br/>
+More than 9 years of commercial experience, last time working mostly as full stack, use Python,<br/>
+love Django, have a background with system programming, reverse engineering.<br/>
 
 Addicted to GitHub, LeetCode & continuous improvement ✌️<br/>
 
