@@ -1,4 +1,4 @@
-Hi, I am software engineer, 30 y.o., curious about whole computer science, especially backend, services,<br/>
+Hi, I am software engineer, curious about whole computer science, especially backend, services,<br/>
 and system programming.<br/>
 
 More than 9 years of commercial experience, last time working mostly as full stack, use Python,<br/>
