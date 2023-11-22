@@ -6,12 +6,10 @@ love Django, know JS, have a background with system programming, reverse enginee
 
 Regularly participate in leetcode contests, have a few public Python packages on PyPI.<br/>
 
-Addicted to GitHub, LeetCode & continuous improvement ✌️<br/>
+Addicted to GitHub, LeetCode & Continuous Improvement ✌️<br/>
 
 ---
 
 https://leetcode.com/pbelskiy<br/>
 https://medium.com/@pbelskiy<br/>
-
-EN: https://linkedin.com/in/pbelskiy<br/>
-RU: https://career.habr.com/petr-belskiy<br/>
+https://linkedin.com/in/pbelskiy<br/>
