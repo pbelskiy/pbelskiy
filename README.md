@@ -8,8 +8,6 @@ Regularly participate in leetcode contests, have a few public Python packages on
 
 Addicted to GitHub, LeetCode & Continuous Improvement ✌️<br/>
 
----
-
+https://linkedin.com/in/pbelskiy<br/>
 https://leetcode.com/pbelskiy<br/>
 https://medium.com/@pbelskiy<br/>
-https://linkedin.com/in/pbelskiy<br/>
